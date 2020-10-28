@@ -21,7 +21,7 @@ namespace DevIO.App.Controllers
         private readonly IMapper _mapper;
 
         public ProdutosController(IProdutoRepository produtoRepository, IFornecedorRepository fornecedorRepository, IMapper mapper)
-        {
+        { 
             _produtoRepository = produtoRepository;
             _fornecedorRepository = fornecedorRepository;
             _mapper = mapper;
