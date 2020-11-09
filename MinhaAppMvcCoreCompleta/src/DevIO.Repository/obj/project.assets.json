@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.2": {
+      "FluentValidation/9.2.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
+        }
+      },
       "Microsoft.EntityFrameworkCore/2.2.2": {
         "type": "package",
         "dependencies": {
@@ -910,6 +919,9 @@
       "DevIO.Business/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "FluentValidation": "9.2.2"
+        },
         "compile": {
           "bin/placeholder/DevIO.Business.dll": {}
         },
@@ -920,6 +932,21 @@
     }
   },
   "libraries": {
+    "FluentValidation/9.2.2": {
+      "sha512": "Y1TQrSa82i/WWPpXriEkL7uyUyECw3Uvtq66dZ8VC3pwFa9VqnZmeZaJJpz8deKhJQNDgqwU3BSptKTnyjqzuA==",
+      "type": "package",
+      "path": "fluentvalidation/9.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluentvalidation.9.2.2.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net461/FluentValidation.dll",
+        "lib/net461/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml"
+      ]
+    },
     "Microsoft.EntityFrameworkCore/2.2.2": {
       "sha512": "/j1tKR7x0wCnm9oSlfgBuh8n1aTZEVf+Aehi0AVMdDeFOnfvY4YrzIz6lsnApY/GfHUA/qyinb0e53ZpIla73Q==",
       "type": "package",

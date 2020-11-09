@@ -59,6 +59,7 @@ namespace DevIO.Data.Repository
         {
             //DbSet.Remove(await DbSet.FindAsync(id));
             var entity = new TEntity { Id = id };
+            DbSet.Remove(entity);
             await SaveChanges();
         }
 

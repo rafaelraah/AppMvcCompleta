@@ -1,10 +1,13 @@
-﻿@model IEnumerable<DevIO.App.ViewModels.FornecedorViewModel>
+﻿@using DevIO.App.Extensions
+@model IEnumerable<DevIO.App.ViewModels.FornecedorViewModel>
 
 @{
     ViewData["Title"] = "Lista de Fornecedores";
 }
 
-    <h1>ViewData["Title"]</h1>
+    <h1>@ViewData["Title"]</h1>
+
+    <vc:Summary></vc:Summary>
 
 <p>
     <a class="btn btn-info" asp-action="Create">
@@ -36,7 +39,7 @@
                 @Html.DisplayFor(modelItem => item.Nome)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Documento)
+                @this.FormataDocumento(item.TipoFornecedor, item.Documento)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.TipoFornecedor)
@@ -46,8 +49,8 @@
             </td>
             <td>
                 <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id"><span class="fa fa-search"></span></a>
-                <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id"><span class="fa fa-pencil"></span></a>
-                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id"><span class="fa fa-trash"></span></a>
+                <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id"><span class="fas fa-pencil-alt"></span></a>
+                <a class="btn btn-danger" supress-by-claim-name="Fornecedor" supress-by-claim-value="Excluir" asp-action="Delete" asp-route-id="@item.Id"><span class="fa fa-trash"></span></a>
             </td>
         </tr>
 }

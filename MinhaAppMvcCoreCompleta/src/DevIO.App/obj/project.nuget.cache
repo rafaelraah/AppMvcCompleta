@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7C1KEMILvaVdhBxJTDvrG2+RSpxAUEq40/c+dOCCfaeBYn3MvWXiIY0dkxRfj0qWMDdKUf55Td/8SUorMY67Fg==",
+  "dgSpecHash": "LDaoVTTcPq68BfYBg8p6zyG7HBAVaNB4MGRPJDc522cpg8nh5IxPsbfEE5jlwaVztpaXnOctPox4hQouOcJKpg==",
   "success": true,
   "projectFilePath": "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\src\\DevIO.App\\DevIO.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\100752\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Users\\100752\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.0.0\\automapper.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\100752\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512",
     "C:\\Users\\100752\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\100752\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
     "C:\\Users\\100752\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
