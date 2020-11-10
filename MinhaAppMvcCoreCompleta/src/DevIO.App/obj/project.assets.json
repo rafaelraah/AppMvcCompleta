@@ -13124,8 +13124,8 @@
     },
     "DevIO.Business/1.0.0": {
       "type": "project",
-      "path": "../../DevIO.Business/DevIO.Business.csproj",
-      "msbuildProject": "../../DevIO.Business/DevIO.Business.csproj"
+      "path": "../DevIO.Business/DevIO.Business.csproj",
+      "msbuildProject": "../DevIO.Business/DevIO.Business.csproj"
     },
     "DevIO.Data/1.0.0": {
       "type": "project",
@@ -13136,6 +13136,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 6.0.0",
+      "DevIO.Business >= 1.0.0",
       "DevIO.Data >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
@@ -13169,6 +13170,9 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
+            "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+              "projectPath": "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
+            },
             "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\src\\DevIO.Repository\\DevIO.Data.csproj": {
               "projectPath": "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\src\\DevIO.Repository\\DevIO.Data.csproj"
             }

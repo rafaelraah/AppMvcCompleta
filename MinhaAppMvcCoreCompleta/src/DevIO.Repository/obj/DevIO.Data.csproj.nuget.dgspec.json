@@ -4,14 +4,14 @@
     "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\src\\DevIO.Repository\\DevIO.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\DevIO.Business\\DevIO.Business.csproj": {
+    "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\DevIO.Business\\DevIO.Business.csproj",
+        "projectPath": "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
         "packagesPath": "C:\\Users\\100752\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\DevIO.Business\\obj\\",
+        "outputPath": "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\100752\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,8 +86,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\DevIO.Business\\DevIO.Business.csproj": {
-                "projectPath": "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\DevIO.Business\\DevIO.Business.csproj"
+              "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+                "projectPath": "C:\\Users\\100752\\Desktop\\Projetos Estudo\\AppCoreCompleta_DevIO\\MinhaAppMvcCoreCompleta\\MinhaAppMvcCoreCompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
               }
             }
           }

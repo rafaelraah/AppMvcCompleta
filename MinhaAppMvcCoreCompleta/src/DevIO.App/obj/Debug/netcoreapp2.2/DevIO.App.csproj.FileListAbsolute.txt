@@ -1,3 +1,10 @@
+C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.csprojAssemblyReference.cache
+C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.AssemblyInfoInputs.cache
+C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.AssemblyInfo.cs
+C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.csproj.CoreCompileInputs.cache
+C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.RazorAssemblyInfo.cache
+C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.RazorAssemblyInfo.cs
+C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\web.config
 C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\appsettings.Development.json
 C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\appsettings.json
 C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\appsettings.Production.json
@@ -15,14 +22,8 @@ C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCom
 C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.App.Views.pdb
 C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Business.dll
 C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Data.dll
-C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
 C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
-C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.csprojAssemblyReference.cache
-C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.AssemblyInfoInputs.cache
-C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.AssemblyInfo.cs
-C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.csproj.CoreCompileInputs.cache
-C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.RazorAssemblyInfo.cache
-C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.RazorAssemblyInfo.cs
+C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
 C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.TagHelpers.input.cache
 C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.TagHelpers.output.cache
 C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.RazorCoreGenerate.cache
@@ -58,4 +59,3 @@ C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCom
 C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.dll
 C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.pdb
 C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\obj\Debug\netcoreapp2.2\DevIO.App.genruntimeconfig.cache
-C:\Users\100752\Desktop\Projetos Estudo\AppCoreCompleta_DevIO\MinhaAppMvcCoreCompleta\MinhaAppMvcCoreCompleta\src\DevIO.App\bin\Debug\netcoreapp2.2\web.config

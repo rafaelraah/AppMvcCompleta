@@ -25,6 +25,7 @@
       "DevIO.App/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "6.0.0",
+          "DevIO.Business": "1.0.0",
           "DevIO.Data": "1.0.0",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",

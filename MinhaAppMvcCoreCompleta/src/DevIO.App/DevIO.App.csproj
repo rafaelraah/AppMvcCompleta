@@ -16,6 +16,7 @@
 
 
   <ItemGroup>
+    <ProjectReference Include="..\DevIO.Business\DevIO.Business.csproj" />
     <ProjectReference Include="..\DevIO.Repository\DevIO.Data.csproj" />
   </ItemGroup>
 
